@@ -191,8 +191,13 @@ body {
         padding-top: 10%;
     }
 
+    .cabecalho__menu {
+        gap: 30px;
+    }
+
     .cabecalho__menu__links {
         font-size: 1.3rem;
+        
     }
 
     .container {
@@ -206,7 +211,7 @@ body {
     }
 
     .imagem {
-        width: auto;
+        width: 98%;
     }
 
     
